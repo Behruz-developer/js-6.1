@@ -7,6 +7,7 @@ for (let i = 0; i < n1; i++) {
 
 }
 
+
 function name1() {
     let operations = ['+', '-', '*', '/', '%'];
     let index = Math.floor(Math.random() * operations.length);
